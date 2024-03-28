@@ -7,22 +7,22 @@ If you want to add your app, feel free to open a pull request to add your app to
 ## Open Source
 
 ### Web
-- BetterChatGPT | [demo](https://bettergpt.chat/) | [source](https://github.com/ztjhz/BetterChatGPT)
-- big-AGI | [demo](https://big-agi.com) | [source](https://github.com/enricoros/big-agi)
-- Chatbot UI | [demo](https://www.chatbotui.com/) | [source](https://github.com/mckaywrigley/chatbot-ui)
-- ChatGPT AI Template | [demo](https://horizon-ui.com/chatgpt-ai-template/) | [source](https://github.com/horizon-ui/chatgpt-ai-template)
-- ChatGPT-API Demo | [demo](https://chatgpt.ddiu.me/) | [source](https://github.com/ddiu8081/chatgpt-demo)
-- ChatGPT Cloned | [demo](https://chat-gpt-cloned.netlify.app/) | [source](https://github.com/PrasadBroo/ChatGPT)
-- ChatGPT Lite | [demo](https://gptlite.vercel.app) | [source](https://github.com/blrchen/chatgpt-lite)
-- ChatGPT Minimal | [demo](https://chatgpt-minimal.vercel.app) | [source](https://github.com/blrchen/chatgpt-minimal)
-- ChatGPT Next Web | [demo](https://chat-gpt-next-web.vercel.app/) | [source](https://github.com/Yidadaa/ChatGPT-Next-Web)
-- ChatGPT-Vercel | [demo](https://www.chatsverse.xyz/) | [source](https://github.com/ourongxing/chatgpt-vercel)
-- ChatGPT-web | [demo](https://niek.github.io/chatgpt-web/) | [source](https://github.com/Niek/chatgpt-web)
-- Chat with GPT | [demo](https://www.chatwithgpt.ai/) | [source](https://github.com/cogentapps/chat-with-gpt)
-- chatwithme.chat | [demo](https://www.chatwithme.chat/) | [source](https://github.com/kierangilliam/chatwithme.chat)
-- L-GPT | [demo](https://gpt.ltopx.com/) | [source](https://github.com/Peek-A-Booo/L-GPT)
-- MyChatGPT | [demo](https://my-chat-gpt-lake.vercel.app/) | [source](https://github.com/Loeffeldude/my-chat-gpt)
-- vanilla-chatgpt | [demo](https://raw.githack.com/casualwriter/vanilla-chatgpt/main/source/index.html) | [source](https://github.com/casualwriter/vanilla-chatgpt)
+- BetterChatGPT | [demo](https://bettergpt.chat/) | [source](https://github.com/ztjhz/BetterChatGPT) | ![GitHub Repo stars](https://img.shields.io/github/stars/ztjhz/BetterChatGPT)
+- big-AGI | [demo](https://big-agi.com) | [source](https://github.com/enricoros/big-agi) | ![GitHub Repo stars](https://img.shields.io/github/stars/enricoros/big-agi)
+- Chatbot UI | [demo](https://www.chatbotui.com/) | [source](https://github.com/mckaywrigley/chatbot-ui) | ![GitHub Repo stars](https://img.shields.io/github/stars/mckaywrigley/chatbot-ui)
+- ChatGPT AI Template | [demo](https://horizon-ui.com/chatgpt-ai-template/) | [source](https://github.com/horizon-ui/chatgpt-ai-template) | ![GitHub Repo stars](https://img.shields.io/github/stars/horizon-ui/chatgpt-ai-template)
+- ChatGPT-API Demo | [demo](https://chatgpt.ddiu.me/) | [source](https://github.com/ddiu8081/chatgpt-demo) | ![GitHub Repo stars](https://img.shields.io/github/stars/ddiu8081/chatgpt-demo)
+- ChatGPT Cloned | [demo](https://chat-gpt-cloned.netlify.app/) | [source](https://github.com/PrasadBroo/ChatGPT) | ![GitHub Repo stars](https://img.shields.io/github/stars/PrasadBroo/ChatGPT)
+- ChatGPT Lite | [demo](https://gptlite.vercel.app) | [source](https://github.com/blrchen/chatgpt-lite) | ![GitHub Repo stars](https://img.shields.io/github/stars/blrchen/chatgpt-lite)
+- ChatGPT Minimal | [demo](https://chatgpt-minimal.vercel.app) | [source](https://github.com/blrchen/chatgpt-minimal) | ![GitHub Repo stars](https://img.shields.io/github/stars/blrchen/chatgpt-minimal)
+- ChatGPT Next Web | [demo](https://chat-gpt-next-web.vercel.app/) | [source](https://github.com/Yidadaa/ChatGPT-Next-Web) | ![GitHub Repo stars](https://img.shields.io/github/stars/Yidadaa/ChatGPT-Next-Web)
+- ChatGPT-Vercel | [demo](https://www.chatsverse.xyz/) | [source](https://github.com/ourongxing/chatgpt-vercel) | ![GitHub Repo stars](https://img.shields.io/github/stars/ourongxing/chatgpt-vercel)
+- ChatGPT-web | [demo](https://niek.github.io/chatgpt-web/) | [source](https://github.com/Niek/chatgpt-web) | ![GitHub Repo stars](https://img.shields.io/github/stars/Niek/chatgpt-web)
+- Chat with GPT | [demo](https://www.chatwithgpt.ai/) | [source](https://github.com/cogentapps/chat-with-gpt) | ![GitHub Repo stars](https://img.shields.io/github/stars/cogentapps/chat-with-gpt)
+- chatwithme.chat | [demo](https://www.chatwithme.chat/) | [source](https://github.com/kierangilliam/chatwithme.chat) | ![GitHub Repo stars](https://img.shields.io/github/stars/kierangilliam/chatwithme.chat)
+- L-GPT | [demo](https://gpt.ltopx.com/) | [source](https://github.com/Peek-A-Booo/L-GPT) | ![GitHub Repo stars](https://img.shields.io/github/stars/Peek-A-Booo/L-GPT)
+- MyChatGPT | [demo](https://my-chat-gpt-lake.vercel.app/) | [source](https://github.com/Loeffeldude/my-chat-gpt) | ![GitHub Repo stars](https://img.shields.io/github/stars/Loeffeldude/my-chat-gpt)
+- vanilla-chatgpt | [demo](https://raw.githack.com/casualwriter/vanilla-chatgpt/main/source/index.html) | [source](https://github.com/casualwriter/vanilla-chatgpt) | ![GitHub Repo stars](https://img.shields.io/github/stars/casualwriter/vanilla-chatgpt)    
 
 
 ### Browser Extension
